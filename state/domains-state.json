@@ -1,3 +1,14 @@
 {
-  "domains": {}
+  "domains": {
+    "299792458.cc.cd": {
+      "expires_at": "2027-09-02 14:44",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    },
+    "66261.cc.cd": {
+      "expires_at": "2027-10-12 10:31",
+      "renew_before_days": 175,
+      "source": "api:expires_at"
+    }
+  }
 }
